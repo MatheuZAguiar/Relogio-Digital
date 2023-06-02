@@ -3,12 +3,12 @@
 * {
     margin: 0;
     padding: 0;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 
 body {
     height: 100vh;
-    background: linear(120deg,#ffe53bd8,#ff2525da);
+    background: linear-gradient(120deg,#ffe53bd8,#ff2525da);
     display: flex;
     align-items: center;
     justify-content: center;
